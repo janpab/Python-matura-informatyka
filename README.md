@@ -10,7 +10,7 @@ folder SPOJ:<br>
 folder zb_zad_cke:<br>
   Rozwiązania zadań ze zbioru CKE do matury z informatyki
 
-plik al.py:<br>
+plik al.py:
     Algorytmy przydatne do matury z infromatyki
     -  nwd
     -  nww
